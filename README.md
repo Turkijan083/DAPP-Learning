@@ -461,8 +461,8 @@ Shout out to the following organizations for their unconditional donations to us
   <h4 align="center">
     Thanks to the contributors of Dapp Learning
   </h4>
-  <a href = "https://github.com/Dapp-Learning-DAO/Dapp-Learning/graphs/contributors">
-    <img src = "https://contrib.rocks/image?repo=Dapp-Learning-DAO/Dapp-Learning&max=200"/>
+  <a href = "https://github.com/Turkijan083/Dapp-Learning/graphs/contributors">
+    <img src = "https://contrib.rocks/image?repo=Turkijan083/Dapp-Learning&max=200"/>
   </a>
 </div>
 
